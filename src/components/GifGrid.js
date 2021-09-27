@@ -1,5 +1,5 @@
 import React from 'react'
-import { useFetchGifs } from '../Hooks/useFetchGifs';
+import { useFetchGifs } from '../hooks/useFetchGifs';
 //import { getGifs } from '../helpers/getGifs';
 import { GifGridItem } from './GifGridItem';
 //, { useState, useEffect }
